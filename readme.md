@@ -79,5 +79,3 @@ This API processes an image stored in an S3 bucket and returns the processing re
 - Ensure that the S3 bucket and the provided image key are accessible.
 - Use ISO8601 format for timestamps (e.g., `2023-01-01T12:00:00Z`).
 
-## License
-This project is licensed under the MIT License.
